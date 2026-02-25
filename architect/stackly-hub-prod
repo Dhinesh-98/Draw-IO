@@ -22,7 +22,7 @@
               <mxPoint x="239" y="321" />
             </Array>
             <mxPoint x="109" y="321" as="sourcePoint" />
-            <mxPoint x="239" y="460" as="targetPoint" />
+            <mxPoint x="239" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nIb2BId6fF7rzKOW7RT9-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
@@ -31,7 +31,7 @@
               <mxPoint x="239" y="680" />
             </Array>
             <mxPoint x="84" y="680" as="sourcePoint" />
-            <mxPoint x="239" y="555" as="targetPoint" />
+            <mxPoint x="239" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nIb2BId6fF7rzKOW7RT9-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="erp.stacklycloud.com" vertex="1">
